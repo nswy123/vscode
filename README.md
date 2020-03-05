@@ -1,2 +1,2 @@
 # vscode
-## my notes
+My notes for backup purposes only.
