@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-# Created on Sun Apr 21 2019 15:54:34
-# Author: WuLC
-# EMail: liangchaowu5@gmail.com
-
 import os
 import pickle
 import shutil
