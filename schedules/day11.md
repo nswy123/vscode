@@ -1,5 +1,5 @@
-# 2020/02/27
-> cloudy 
+# 2020/03/05
+> sun 
 ## AM
 - [ ] get up : 7:30
 - [ ] reading : 7:30 - 8:00
@@ -15,4 +15,4 @@
 - [x] dinner : 7:00 - 7:50
 - [ ] practice listening : 8:00 - 10:00
 ## Summary
-empty
+i wanted to record daily,but too much temptation,how to stick to it? i don't kown,but just do it.

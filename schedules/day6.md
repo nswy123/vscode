@@ -1,5 +1,5 @@
-# 2020/02/24
-> rain 
+# 2020/02/29
+> sun 
 ## AM
 - [ ] get up : 7:30
 - [ ] reading : 7:30 - 8:00
@@ -15,4 +15,4 @@
 - [x] dinner : 7:00 - 7:50
 - [ ] practice listening : 8:00 - 10:00
 ## Summary
-Starting today, i want to write articles to record my daily life.
+empty
