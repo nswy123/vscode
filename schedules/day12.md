@@ -13,5 +13,5 @@
 - [ ] signal and system : 4:10 - 5:50
 - [ ] mathematical olympiad : 6:00 - 6:50
 - [x] dinner : 7:00 - 7:50
-- [ ] practice listening : 8:00 - 10:00
+- [x] learn python the hard way : 8:00 - 10:26
 ## Summary
