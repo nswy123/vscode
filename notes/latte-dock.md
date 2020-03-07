@@ -1,4 +1,5 @@
 # latte-dock 更新到0.9.9 右击dock栏无法打开设置
+***<font color=#ff0000 size=3>2020年3月7日更新：latte-dock已经修复这个问题,此文留作参考</font>***
 ## 系统配置如下：
 ![systeminfo](https://raw.githubusercontent.com/nswy123/MarkDownImages/master/systeminfo.png)
 ***
