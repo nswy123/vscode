@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "CodeLens (Launch) - ex1",
+            "request": "launch",
+            "mainClass": "ex1",
+            "projectName": "vscode_3eb77830"
+        },
+        {
             "name": "Python: 当前文件",
             "type": "python",
             "request": "launch",
