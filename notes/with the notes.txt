@@ -1,0 +1,15 @@
+1.linux百度云打开后一直缓冲无法显示登录界面解决办法：
+    cd ~/.local/share/baidu/baidunetdisk
+    rm  baidunetdiskdata.db
+ or 
+    rm ~/.local/share/baidu/baidunetdisk/baidunetdiskdata.db
+
+2.git push origin master报错原因可能是空文件夹未初始化：
+    touch readme
+    git add .
+    git commit -m 'add'
+    git push origin master
+    若报错则先pull一下
+    git pull origin master
+
+3.
